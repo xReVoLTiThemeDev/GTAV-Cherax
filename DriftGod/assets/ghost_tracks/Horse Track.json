@@ -1,0 +1,8 @@
+{
+  "schema": "DriftGod.GhostTrack.v1",
+  "file": "Horse Track.json",
+  "name": "Horse Track",
+  "checkpointCount": 0,
+  "checkpoints": [],
+  "description": "Imported demo ghost track metadata for Horse Track. Full replay data is stored separately in ghost_replays/Horse Track - Jester - 0.33.842.json."
+}
