@@ -114,9 +114,7 @@ These builds may contain:
 - Known rough edges
 - Behavior that may change quickly
 
-```
 
-ALPHA builds are useful for testing ideas, gathering logs, and rapidly improving features.
 
 ### BETA
 
@@ -558,7 +556,7 @@ If you are using one of these scripts, make sure you are using the correct build
 
 ```txt
 ALPHA   = experimental
-BETA    = testing
+    = testing
 RELEASE = stable
 ```
 
