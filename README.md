@@ -123,12 +123,9 @@ These builds may contain:
 These builds are intended for wider testing once major systems are mostly working.
 
 Example:
-
-```txt
 DriftGod v6.13.xx BETA
-```
 
-BETA builds should be cleaner than alpha builds, but still may need feedback and polish.
+
 
 ### RELEASE
 
