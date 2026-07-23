@@ -6,7 +6,7 @@ Created by **Animus / xReVoLTiThemeDev**
 Discord: **animusx1337**  
 GitHub: **https://github.com/xReVoLTiThemeDev/GTAV-Cherax**
 
-Estimated Development Time: **~82 hours** as of **06/26/2026**
+Estimated Development Time: **~420+ hours** as of **07/22/2026**
 
 ---
 
