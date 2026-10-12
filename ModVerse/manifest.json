@@ -1,0 +1,45 @@
+{
+  "schema": 2,
+  "product": "ModVerse",
+  "runtime_version": "v2",
+  "base_build": "072",
+  "archive": "ModVerse_Runtime_v2.zip",
+  "raw_url": "https://raw.githubusercontent.com/xReVoLTiThemeDev/GTAV-Cherax/main/ModVerse/assets/ModVerse_Runtime_v2.zip",
+  "bytes": 13486,
+  "sha256": "60ae1473d0b911827b64a722e558305488319ee9fb8991727a1c38491a7bfae2",
+  "install_root": "Cherax\\Lua",
+  "executable_files": [
+    {
+      "path": "ModVerse/runtime/native/ASIHubSH2.dll",
+      "bytes": 7680,
+      "sha256": "e9752b42cd3e73c2636504cf7a875ed20950e6aff6e9993e4760b507d11a762b"
+    },
+    {
+      "path": "ModVerse/runtime/native/ASIHubSH3.dll",
+      "bytes": 4096,
+      "sha256": "81d9b52b4aa99dad30442c03e1b2d3b6fd7d26078d33f535dbd909ba9b10f170"
+    },
+    {
+      "path": "ModVerse/runtime/native/asihub_archive_core.dll",
+      "bytes": 7168,
+      "sha256": "06a112dec9d6a2e5da8fa01975fd1f27da1ab8bacb6cf5e26ccbe70a0039885a"
+    },
+    {
+      "path": "ModVerse/runtime/native/asihub_input_core.dll",
+      "bytes": 5632,
+      "sha256": "a726e802960609706f46afe82d5ed5b56aad14aa0ff48d8f81a9686c1deaefa2"
+    },
+    {
+      "path": "ModVerse/runtime/native/asihub_native_core.dll",
+      "bytes": 6656,
+      "sha256": "7d48228cce538e36c13c0bcb092c455b0f770e3ea6a77a49ad040954b82a4bae"
+    },
+    {
+      "path": "ModVerse/runtime/native/asihub_shv_tick.dll",
+      "bytes": 2048,
+      "sha256": "a7228d9b0349320a817e7fda99757afc8df9a7c06f9e2553bbb9a11f9e641c0e"
+    }
+  ],
+  "requires_manual_script_execution": false,
+  "notes": "Only the six ModVerse native DLL dependencies. This package does not provide RAR/7Z extraction without an in-process backend."
+}
